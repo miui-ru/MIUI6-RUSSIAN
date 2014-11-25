@@ -34,4 +34,4 @@ Forbidden:
 
 
 ## Generated:
-http://extc.miui.ru/translation_panel/
+http://extc.miui.ru/generate/
